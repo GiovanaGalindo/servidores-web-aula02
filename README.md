@@ -1,16 +1,16 @@
 # Servidores Web - Aula 02
 
 ## Nome
-SEU NOME COMPLETO
+Giovana Galindo da Silva
 
 ## RA
-SEU RA
+762100
 
 ## Curso
 Ciência da Computação
 
 ## Disciplina
-Servidores e Ambientes Web
+Desenvolvimento de Aplicações WEB 
 
 ## Resumo da Aula
 
